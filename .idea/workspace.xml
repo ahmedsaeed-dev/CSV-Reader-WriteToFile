@@ -23,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/source.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="324">
-                <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <first_editor relative-caret-position="340">
+                <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
               </first_editor>
               <second_editor relative-caret-position="-112" />
             </state>
@@ -177,7 +177,7 @@
       <workItem from="1553610872341" duration="3288000" />
       <workItem from="1553755834075" duration="49000" />
       <workItem from="1553797048406" duration="305000" />
-      <workItem from="1553816688705" duration="12885000" />
+      <workItem from="1553816688705" duration="12939000" />
     </task>
     <task id="LOCAL-00001" summary="read all rows into dictionary. each player key = line count. added check to find participants with disqualified round scores, added function to print which rounds player didn't participate in (need to export to txt file later)">
       <created>1553234005078</created>
@@ -186,11 +186,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553234005079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="most of it is working. need to clean up code and then find a way to figure out how to sort in alphabetical order if tie after sorted by value.">
+      <created>1553831042309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553831042309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20617000" />
+    <option name="totallyTimeSpent" value="20671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1686" y="23" width="1680" height="1027" extended-state="6" />
@@ -224,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="read all rows into dictionary. each player key = line count. added check to find participants with disqualified round scores, added function to print which rounds player didn't participate in (need to export to txt file later)" />
-    <option name="LAST_COMMIT_MESSAGE" value="read all rows into dictionary. each player key = line count. added check to find participants with disqualified round scores, added function to print which rounds player didn't participate in (need to export to txt file later)" />
+    <MESSAGE value="most of it is working. need to clean up code and then find a way to figure out how to sort in alphabetical order if tie after sorted by value." />
+    <option name="LAST_COMMIT_MESSAGE" value="most of it is working. need to clean up code and then find a way to figure out how to sort in alphabetical order if tie after sorted by value." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/second">
@@ -254,8 +262,8 @@
     <entry file="file://$PROJECT_DIR$/source.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="324">
-            <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <first_editor relative-caret-position="340">
+            <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
           </first_editor>
           <second_editor relative-caret-position="-112" />
         </state>
